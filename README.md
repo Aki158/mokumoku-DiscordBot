@@ -1,2 +1,2 @@
 # mokumoku-DiscordBot
-DiscordサーバでBotに毎週メッセージを送信させます。
+プログラムを実行させるとDiscordサーバの指定したチャンネルにBotがメッセージ(定型文)を送信します。
